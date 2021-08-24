@@ -1,4 +1,7 @@
 
+A collection of famous Japanese Animation movies and TV shows with features to view Top shows and get top searches from the collection.
+
+Live Demo => https://anime-world-app.herokuapp.com/
 
 
 
